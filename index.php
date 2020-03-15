@@ -1,5 +1,5 @@
 ﻿﻿<head>
-  <title>☄ strípє ¢нє¢кєя ☄</title>
+  <title>☄ F A I Z CHECKER ☄</title>
   <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
